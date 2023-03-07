@@ -1,18 +1,18 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: nhs3108
-  Date: 6/2/17
-  Time: 3:35 PM
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<c:url value="/" var="root"/>
+
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-    <title>Title</title>
+
+    <title>Test</title>
+    
 </head>
+
 <body>
-Jenkins demo !!!
-<br>
-Chúc các bạn vui vẻ
+   <h1>Test123</h1>
 </body>
+
 </html>
